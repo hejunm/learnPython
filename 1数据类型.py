@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# http://www.runoob.com/python/python-variable-types.html
 # 字符串操作
 # str = 'Hello World'
 # print str
